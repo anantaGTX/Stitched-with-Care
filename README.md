@@ -1,64 +1,65 @@
-Sup? Crafter! – Personal Crochet Journal & Order Tracker 🌸🧶
+Sup? Crafter! 🌸🧶
 
-Sup? Crafter! is a lightweight web app designed for crochet enthusiasts to track daily moods, journal their crochet moments, and manage orders. Inspired by thoughtful crafting, this app combines functionality with a soft, cozy aesthetic.
+Sup? Crafter! is a lightweight web app for crochet enthusiasts to track daily moods, journal crochet moments, and manage orders. It combines functionality with a soft, cozy aesthetic.
 
-🌟 Features
+Features
+
 Mood & Crochet Journal
 
-Track your daily moods with fun emoji expressions 🙂😔😴😠😕
+Track daily moods with emojis 🙂😔😴😠😕
 
 Write and save daily reflections or crochet notes
 
-"Save the Stitch" button — a subtle nod to your crochet moments 💖
+“Save the Stitch” button adds a subtle, heartfelt touch
 
-Easy history view to revisit past entries
+Revisit past entries easily
 
 Order Tracker
 
-Manage and track customer orders
+Manage customer orders efficiently
 
-Set delivery deadlines and see remaining days with visual badges
+Set deadlines and see remaining days with visual badges
 
 Keep all orders organized in one place
 
-Music Sticker (Optional Fun)
+Music Sticker (Optional)
 
-Built-in playlist player with play/pause & next/previous controls
+Built-in playlist player with play/pause and skip controls
 
 Adds a relaxing vibe while journaling
 
 Security & UX
 
-Simple 4-digit PIN lock screen to protect your journal
+4-digit PIN lock screen to protect your journal
 
-Responsive design for mobile and desktop
+Responsive design for desktop and mobile
 
-Clean, modern UI with soft gradients and glassmorphism
+Modern UI with soft gradients and glassmorphism
 
-🛠️ Technologies Used
+Technologies Used
 
-HTML, CSS, JavaScript for frontend
+HTML, CSS, JavaScript
 
-LocalStorage for persistent data storage (journals & orders)
+LocalStorage for persistent data
 
 Google Fonts: Outfit & Inter
 
-Optional audio support with <audio> tag
+Audio support with <audio> tag
 
-🎨 Aesthetic Notes
+Aesthetic Notes
 
-Colors: soothing blues and whites
+Soothing color palette: blues and whites
 
-Button text & placeholders with crochet-themed wording like “Save the Stitch”
+Buttons and placeholders feature crochet-themed wording
 
-Minimalistic yet cozy design inspired by soft crafting vibes
+Minimalistic, cozy design inspired by soft crafting vibes
 
-💡 Potential Improvements
+Future Improvements
 
-Add cloud storage for cross-device access
+Cloud storage for multi-device access
 
-Enable user accounts and multi-user support
+User accounts for multiple users
 
-Include customizable playlists
+Customizable playlists
 
-Add analytics for orders & journaling trends
+Analytics for journaling and orders
